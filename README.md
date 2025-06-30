@@ -122,24 +122,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter scipy
    - Model development and training
    - Performance evaluation and validation
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Kaggle for providing the Titanic dataset
-- The data science community for inspiration and best practices
-- Contributors and reviewers who helped improve this analysis
-
-## 📧 Contact
-
-Feel free to reach out if you have any questions or suggestions!
-
----
-
-⭐ **Star this repository if you found it helpful!**
