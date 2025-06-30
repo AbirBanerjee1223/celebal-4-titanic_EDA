@@ -89,8 +89,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter scipy
 ### Running the Analysis
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-eda](https://github.com/AbirBanerjee1223/celebal-4-titanic_EDA.git
-   cd titanic-eda
+   git clone https://github.com/AbirBanerjee1223/celebal-4-titanic_EDA.git
+   cd celebal-4-titanic_EDA
    ```
 
 2. Launch Jupyter Notebook:
